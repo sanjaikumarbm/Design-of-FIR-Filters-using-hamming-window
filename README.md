@@ -1,5 +1,5 @@
 # Design-of-FIR-Filters-using-hamming-window
-REG NO :212223060247
+REG NO :212224060232
 # DESIGN OF LOW PASS FIR DIGITAL FILTER 
 
 # AIM: 
